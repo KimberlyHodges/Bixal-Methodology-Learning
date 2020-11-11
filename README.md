@@ -1,13 +1,10 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Bixal Methodology
+Bixal's Methodology defines a framework for Bixal employees to use as a guideine in developing both digital and non digital work. Further, our methodology promotes a consistent taxonomy and human centered approach, a place from which to start solving problems for our clients and their constiutents, the American public.
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+## It's your tool
+It's an important reference tool for Bixal's Communities of Practice - to onboard new employees, to promote strong collaboration amongst practice areas, and to use as an educational tool internally and with the public. It also:
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+* Highights federal governament initiatives like the [21st Century Integrated Digital Experience Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/) (21st Century IDEA)
+* Promotes customer experience as the central tenant of our work
+* Integrates service design as key to promoting the overall customer experience 
+* Connects the path from sourcing the right work, to proposing the right solution, to delivering the best product
